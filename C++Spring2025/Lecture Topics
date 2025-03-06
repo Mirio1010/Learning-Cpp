@@ -1,0 +1,30 @@
+Lecture Topics:
+
+Lecture 1: 
+    Introduction to C++, 
+    Benefits of C++. 
+    Syntax, 
+    standard libraries, tools.
+
+Lecture 2:
+    Constant variables,
+    constant expressions, 
+    constexpr keyword, 
+    constexpr functions,
+    enums, typedefs, 
+    short circuit techniques, 
+    dynamic vs static decleration, 
+    loops and arrays in C++
+
+Lecture 3:
+    Introduction to References and Pointers.
+
+Lecture 4:
+    Continuing Pointers.
+    Memory allocation. 
+    const pointers, 
+    Pointers Arithmetic, 
+    prefix and postfix operators with pointers.
+    Understanding arrays with pointers.
+    Pointers with heap memory and dynamic array.
+Lecture 5: 
