@@ -152,6 +152,23 @@ int main() {
     //-------- HOW TO CREATE A DYNAMIC ARRAY IN C++ --------
     // In java, you can create a dynamic array using the ArrayList class. In C++, you can create a dynamic array using pointers.
 
+       //Allocation of dynamic array
+     int size;
+     cout<<"size: ";
+     cin>>size;
+     int* myArray2=new int[size]; //created in heap
+     int array1[size]; //created in stack
+
+  // add additional element to dynamic array
+    int new_size = size + 1;
+    myArray2=new int[new_size];
+    int *new_array = new int[new_size];
+    myArray2=new_array; //changing the myArray2 size at run time
+
+    int array2[10];
+    array1=array2; //trying to change the array size at run time for a static array
+  
+
 
     return 0;
 } 
