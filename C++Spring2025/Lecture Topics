@@ -27,4 +27,18 @@ Lecture 4:
     prefix and postfix operators with pointers.
     Understanding arrays with pointers.
     Pointers with heap memory and dynamic array.
+
 Lecture 5: 
+    Multidimensional Arrays
+    Introduction to functions with pointes
+
+Lecture 6: 
+    Returning pointers from function
+    Array argument --> what does it really mean when you pass an array as an argument to a function? 
+    Multiple value from a function: How references are useful to work on multiple values, like the getMinMax fuction(look at code).
+    Function pointers
+    Void pointers
+    Function name overloading
+    Local & Global variables
+    Static variables
+    Header files
