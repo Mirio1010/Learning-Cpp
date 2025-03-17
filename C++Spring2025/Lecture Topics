@@ -1,44 +1,44 @@
 Lecture Topics:
 
 Lecture 1: 
-    Introduction to C++, 
-    Benefits of C++. 
-    Syntax, 
-    standard libraries, tools.
+    -Introduction to C++, 
+    -Benefits of C++. 
+    -Syntax, 
+    -standard libraries, tools.
 
 Lecture 2:
-    Constant variables,
-    constant expressions, 
-    constexpr keyword, 
-    constexpr functions,
-    enums, typedefs, 
-    short circuit techniques, 
-    dynamic vs static decleration, 
-    loops and arrays in C++
+    -Constant variables,
+    -constant expressions, 
+    -constexpr keyword, 
+    -constexpr functions,
+    -enums, typedefs, 
+    -short circuit techniques, 
+    -dynamic vs static decleration, 
+    -loops and arrays in C++
 
 Lecture 3:
-    Introduction to References and Pointers.
+    -Introduction to References and Pointers.
 
 Lecture 4:
-    Continuing Pointers.
-    Memory allocation. 
-    const pointers, 
-    Pointers Arithmetic, 
-    prefix and postfix operators with pointers.
-    Understanding arrays with pointers.
-    Pointers with heap memory and dynamic array.
+    -Continuing Pointers.
+    -Memory allocation. 
+    -const pointers, 
+    -Pointers Arithmetic, 
+    -prefix and postfix operators with pointers.
+    -Understanding arrays with pointers.
+    -Pointers with heap memory and dynamic array.
 
 Lecture 5: 
-    Multidimensional Arrays
-    Introduction to functions with pointes
+    -Multidimensional Arrays
+    -Introduction to functions with pointes
 
 Lecture 6: 
-    Returning pointers from function
-    Array argument --> what does it really mean when you pass an array as an argument to a function? 
-    Multiple value from a function: How references are useful to work on multiple values, like the getMinMax fuction(look at code).
-    Function pointers
-    Void pointers
-    Function name overloading
-    Local & Global variables
-    Static variables
-    Header files
+    -Returning pointers from function
+    -Array argument --> what does it really mean when you pass an array as an argument to a function? 
+    -Multiple value from a function: How references are useful to work on multiple values, like the getMinMax fuction(look at code).
+    -Function pointers
+    -Void pointers
+    -Function name overloading
+    -Local & Global variables
+    -Static variables
+    -Header files
