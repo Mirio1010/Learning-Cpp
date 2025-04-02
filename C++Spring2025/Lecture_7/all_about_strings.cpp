@@ -18,7 +18,8 @@ int main() {
 
         A better way to inicialize a C-style string is to use double quotes:
         char iKnowMySize[] = "hello";  --> only 5 characters are needed, the null character is added automatically.
-        char letCompilerCount[] = "hello";  
+        char letCompilerCount[5] = "hello";
+        
 
         C++ string class:
         - The C++ string class is a part of the C++ standard library.
