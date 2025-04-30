@@ -100,15 +100,34 @@ Virtual Functions: In C++, a virtual function is a member function that you expe
 It allows polymorphism, which means you can call a function on a pointer or reference to a base class,
 and it will execute the the correct version of the function based on the actual object type, not the pointer type.
 
-study the 'Virtual' keyword
+Here is an example; 
 
+Consider you have these two classes: Animal and Dog. Animal is the base class and dog is the derived class from animal like so;
 
+Animal class {
+    public:
+        void makeNoise() {
+            std::count << "Animal makes noise" << std::endl;
+        }
+} 
 
+Dog class : public Animal {
+    public:
+        void makeNoise() {
+            std::cout << "Woof! Woof!" << std::endl;
+        }
+        
+}
 
+- They both have a method makeNoise but the Dog class overrides that method. No problem so far..
 
-
+int main() {
+    Animal* animal = new Animal();
+    
 
     */
+
+    
 
     return 0;
 }
