@@ -58,4 +58,15 @@ Lecture 9:
     - 'this' keyword 
     - Virtual Functions
     - Inheritance
+
+Lecture 10:
+    - continuing virtual funcitons
+    - polymorphism (Compile time vs Runtime
+    - Operator overloading
+    - Smart Pointers
+    - Friend Functions
+    - Frien class
+    - static member of a class
+    - static functions
+    
     
